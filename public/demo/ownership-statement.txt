@@ -1,0 +1,7 @@
+Campus Connect — SAMPLE VERIFICATION FILE
+
+This is dummy evidence for the hackathon frontend demonstration.
+It is not proof of ownership, student identity, or a real business.
+
+Use this file to test the application's file-selection interface.
+The prototype stores its filename only and does not upload its contents.
